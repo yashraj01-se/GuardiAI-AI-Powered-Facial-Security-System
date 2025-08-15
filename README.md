@@ -56,31 +56,6 @@ cd GuardiAI
 pip install -r requirements.txt
 ```
 
----
-
-## 🖥️ Usage
-
-### 1️⃣ **Collect Dataset**
-
-Run the dataset collection script to capture anchor & positive images from your webcam:
-
-```bash
-python collect_data.py
-```
-
-### 2️⃣ **Train the Model**
-
-Train GuardiAI on your collected images:
-
-```bash
-python train.py
-```
-
-### 3️⃣ **Run Real-Time Authentication**
-
-```bash
-python authenticate.py
-```
 
 ---
 
@@ -93,7 +68,7 @@ python authenticate.py
 
 ## ⚠️ Disclaimer
 
-This project is for **educational purposes** and should not be used as the sole security measure in high-risk environments.
+This project is for **EDUCATIONAL PURPOSE** and should not be used as the sole security measure in high-risk environments.
 
 ---
 
