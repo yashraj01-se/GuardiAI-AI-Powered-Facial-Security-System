@@ -40,7 +40,6 @@ GuardiAI/
 ├── model/             # Saved model files
 ├── scripts/           # Python scripts for training & testing
 ├── README.md
-└── requirements.txt
 ```
 
 ---
